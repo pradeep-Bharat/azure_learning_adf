@@ -1,0 +1,9 @@
+{
+	"name": "dlt-data-factory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b7a6dc21-f0ae-47c4-9e63-cbf1e4136b98",
+		"tenantId": "956c8fd4-4bab-4963-9f6c-9f905a1359cf"
+	}
+}
